@@ -1,5 +1,3 @@
-<div align="center">
-  
 ![header](https://capsule-render.vercel.app/api?type=wave&text=GayeongChoi)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayomiiiii&count_bg=%23FEFFC3&title_bg=%23FFC6C6&icon=&icon_color=%23F0F0F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -51,5 +49,3 @@
 # :mailbox_with_mail: Contacts
 [![Tistory Badge](http://img.shields.io/badge/Tistory-000000.svg?&style=flat-square&logo=Tistory&link=https://gayomii.tistory.com/)](https://gayomii.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yh460700@gmail.com)](yh460700@gmail.com)
-
-</div>
