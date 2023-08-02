@@ -6,6 +6,16 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700/)
 
+# ✍️Activity
+
+## 교내활동                                                                 교외활동
+| 활동명            | 활동일자    | 기관/단체         |                       | 활동명            | 활동일자   | 기관/단체         |
+|------------------ |------------|------------------|                       |                   |           |                  |
+|                   |            |                  |
+|                   |            |                  |
+
+# 🏆Awards
+
 # 💪Skills
 
 # :mailbox_with_mail: Contacts
