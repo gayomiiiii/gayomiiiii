@@ -4,7 +4,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayomiiiii&show_icons=true&theme=gruvbox">
-  <img height="180em" src="(http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)(https://solved.ac/yh460700/)">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700(https://solved.ac/yh460700/)">
 </p>
 
 ## 👩🏻‍💻Education
