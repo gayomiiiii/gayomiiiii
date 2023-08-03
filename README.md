@@ -2,11 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgayomiiiii&count_bg=%23FEFFC3&title_bg=%23FFC6C6&icon=&icon_color=%23F0F0F0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Gayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayomiiiii&show_icons=true&theme=gruvbox)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700/)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gayomiiiii&show_icons=true&theme=gruvbox">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700/)">
+</p>
 
 ## 👩🏻‍💻Education
 - 2021 공공빅데이터 청년인턴 양성사업 수료
