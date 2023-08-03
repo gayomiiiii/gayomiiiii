@@ -7,6 +7,8 @@
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700/">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh460700)](https://solved.ac/yh460700)
+
 ## 👩🏻‍💻Education
 - 2021 공공빅데이터 청년인턴 양성사업 수료
 - 2021 교통 빅데이터 분석 전문가 양성과정 수료
